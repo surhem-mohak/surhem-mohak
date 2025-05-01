@@ -3,7 +3,7 @@
 ---
 
 - **Name** : Mohak Patel 
-- **Skills** : Money making
+- **Skills**  : Money making
 
 ---
 
