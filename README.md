@@ -7,4 +7,4 @@
 
 ---
 
-- **Platforms** :  <mark>Trading<mark/> 
+- **Platforms** :  <mark>Trading<mark/> |  <mark>Selling<mark/>
