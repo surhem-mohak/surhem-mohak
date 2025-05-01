@@ -6,3 +6,5 @@
 - **Skills** : Money making
 
 ---
+
+- **Platforms** :  == Trading ==  , == Course Selling ==
