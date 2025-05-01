@@ -7,4 +7,4 @@
 
 ---
 
-- **Platforms** :  ==Trading== 
+- **Platforms** :  <mark>Trading<mark/> 
