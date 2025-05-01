@@ -7,4 +7,4 @@
 
 ---
 
-- **Platforms** :  ==Trading==  , ==Course Selling==
+- **Platforms** :  ==Trading== 
